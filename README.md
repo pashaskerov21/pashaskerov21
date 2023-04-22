@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Askerov ALipasha</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1>Hi 👋, I'm Askerov Alipasha</h1>
+<h3>Frontend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://alipashaskerov.netlify.app/](https://alipashaskerov.netlify.app/)
 
