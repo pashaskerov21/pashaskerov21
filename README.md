@@ -1,8 +1,9 @@
 <h1>Hi 👋, I'm Askerov Alipasha</h1>
 <h3>Frontend Developer</h3>
 
-👨‍💻 All of my projects are available at [https://alipashaskerov.netlify.app/](https://alipashaskerov.netlify.app/)
-📫 How to reach me **askerovpasha21@gmail.com**
+- 👨‍💻 All of my projects are available at [https://alipashaskerov.netlify.app/](https://alipashaskerov.netlify.app/)
+
+- 📫 How to reach me **askerovpasha21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
