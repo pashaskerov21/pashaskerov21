@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Askerov Alipasha</h1>
 <h3>Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://alipashaskerov.netlify.app/](https://alipashaskerov.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alipashaskerov.vercel.app/](https://alipashaskerov.vercel.app/)
 
 - 📫 How to reach me **askerovpasha21@gmail.com**
 
